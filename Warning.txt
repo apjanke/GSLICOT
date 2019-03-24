@@ -1,0 +1,11 @@
+Warning!
+
+This is not the latest SLICOT Release, but the last update of the Release 4 
+(called Release 4.5) of the SLICOT Library and associated documentation, 
+example programs, data, and results files.  The file contents are those 
+on January 2005.
+
+SLICOT Release 4.5 is available under the GPL (GNU General Public License).
+It contains more than 100 less routines than the current SLICOT version, 
+and does not incorporate all bug fixes and performance improvements.
+
